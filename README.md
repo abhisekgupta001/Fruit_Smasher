@@ -1,5 +1,14 @@
 # Fruit_Smasher
-Created with CodeSandbox
+### Created with CodeSandbox
 
-Fruit Smasher is a very basic web app that uses React UseState and helps in identifying a fruit emoji.
+1. Fruit Smasher is a web application that can identify different types of fruits based on their emojis.
+
+2. It has a card list of emojis, which when clicked upon will display the fruits name.
+
+3. It also hava a search bar, in which if we pass the emoji as input, the name of the fruit is given as output.
+
+4. Tech stack used is React, CSS.
+
+5. Hosted live on Netlify at 
+    https://fruitsmasher.netlify.app/
 
