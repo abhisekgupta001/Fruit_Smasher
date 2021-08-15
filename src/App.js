@@ -15,7 +15,7 @@ var foodShelf = {
   "🌽": "Corn",
   "🍄":"Mushroom",
   "🥑":"Avocado",
-  "🥥":"Coconut",
+  "🍋":"Lemon",
 };
 
 var foodWeKnow = Object.keys(foodShelf);
