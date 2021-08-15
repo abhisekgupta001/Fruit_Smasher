@@ -10,7 +10,8 @@ var foodShelf = {
   "🍎": "Apple",
   "🍓": "Strawberry",
   "🥥": "Coconut",
-  "🥝": "Kiwi"
+  "🥝": "Kiwi",
+  "🍒": "cherries",
 };
 
 var foodWeKnow = Object.keys(foodShelf);
